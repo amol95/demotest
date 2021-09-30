@@ -1,2 +1,4 @@
 hello amol gm git works
 before git amd command just add into local repo
+
+
